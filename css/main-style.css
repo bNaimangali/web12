@@ -184,10 +184,12 @@ header{
     color: #474747;
     margin-left: 30px;
 }
+
 section{
     padding: 50px 200px 50px 200px;
     text-align: center;
 }
+
 .main__section{
     text-align: center;
 }
@@ -251,6 +253,7 @@ section{
 .main__section-2{
     margin-top: 20px;
 }
+
 section h3{
     font-family: 'Montserrat', sans-serif;
     font-style: normal;
@@ -258,6 +261,7 @@ section h3{
     font-size: 30px;
     line-height: 56px;
 }
+
 .buttons{
     display: flex;
     align-items: center;
@@ -572,3 +576,4 @@ body.active{
     line-height: 30px;
     letter-spacing: 0.05em;
 }
+
