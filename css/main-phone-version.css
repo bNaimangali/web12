@@ -205,10 +205,12 @@
     .nabidky__list{
         padding: 0 50px;
     }
-    .nabidky__list div, .nabidky__list button{
+    .nabidky__list div{
         width: calc(50% - 42px);
     }
-
+    .nabidky__list button{
+        padding: 0 30px;
+    }
     .main__buttons.active{
         margin-left: -100px;
     }
@@ -332,7 +334,6 @@
         width: calc(33.3% - 42px);
     }
     .nabidky__list button{
-        width: calc(50% - 42px);
         padding: 30px  0;
     }
     .vyber{
