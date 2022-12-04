@@ -3,7 +3,9 @@ function openMenu() {
     document.querySelector('.menu__button').classList.toggle('active');
     document.querySelector('body').classList.toggle('active');
 }
-
+function zivotopisy() {
+    document.location = ('/zivotopisy-link.html');
+}
 function openFAQ(){
     var faq = document.getElementsByClassName("question");
     for (i = 0; i < faq.length; i++) {
